@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'The Nautigal', cursive;
+    font-size: 5.625rem;
+    color: rgb(99, 128, 99);
+    line-height: 50%;
+}
+h2{
+    color: rgb(99, 128, 99);
+}
+h3{
+    color: rgb(99, 128, 99);
+}
+.top_para{
+    color: rgb(99, 128, 99);
+    font-family: 'Share Tech Mono', monospace;
+    font-stretch: expanded;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+p{
+    font-family: 'Roboto Slab', serif;
+}
+.img{
+    height: 20%;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.img1{
+    height: 30%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 0;
+}
+.profile{
+    margin-top: 50px;
+    padding: 20px;
+}
+.profileimg{
+    height: 10%;
+    width: 10%;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: rgb(176, 250, 219);
+}
+.skill-row{
+    /* border: solid; */
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
